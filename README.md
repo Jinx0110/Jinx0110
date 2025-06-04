@@ -1,4 +1,4 @@
-![git2.jpg]
+![image](git2.jpg)
 
 # Say HI to Morty
 
