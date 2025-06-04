@@ -1,3 +1,5 @@
+![git2.jpg]
+
 # Say HI to Morty
 
 ## #30NitesOfCode:
