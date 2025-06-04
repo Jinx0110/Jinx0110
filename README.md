@@ -1,5 +1,6 @@
-![image](git2.jpg)  # Hi there
+![image](git2.jpg)
 
+────────────────────────────────୨ৎ────────────────────────────────
 # Say HI to Morty
 
 ## #30NitesOfCode:
